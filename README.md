@@ -31,10 +31,11 @@ Alternative ways to secure API keys in public repos:
 
 
 How to Run:
-1. If you are using VS Code, go to Terminal
-2. npm run start
-3. Follow the instructions in the console - repeat if you would like to
-4. View latest delivery status at http://149.28.176.193:8080
+1. If you are using VS Code, go to Terminal or Command Prompt
+2. npm install
+3. npm run start
+4. Follow the instructions in the console - repeat if you would like to
+5. View latest delivery status at http://149.28.176.193:8080
 
 Troubleshooting:
 On first try if there is any errors in Terminal or command prompt:
